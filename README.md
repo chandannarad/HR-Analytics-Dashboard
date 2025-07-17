@@ -44,6 +44,7 @@ This dashboard is designed to support HR professionals in:
 ## 📷 Dashboard Preview
  
 `![HR Dashboard Screenshot]("C:\Users\Chandan Narad\OneDrive\Documents\Power Bi files\HR Analytics Dashboard Project_page-0001.jpg")`
+![HR Analytics Dashboard Project_page-0001](https://github.com/user-attachments/assets/ee66e2ef-768f-47a2-84c5-faa7f10ec33c)
 
 ## 📈 Future Improvements
 
