@@ -23,6 +23,7 @@ The dashboard offers insightful visualizations and key metrics to enable **data-
 ## 📂 Project Components
 
 - `HR Analytics Dashboard.pbix` – Main Power BI file with complete dashboard and visualizations
+- `HR Analytics Dataset CSV` – Dataset for Project
 - `README.md` – Project documentation
 
 ## 🛠 Tools & Technologies
